@@ -1,0 +1,3 @@
+#Para Funcionamento Dessa Ferramente E Nescessário
+1 - Metasploit, Instalado
+2 - Python3, Instalado
